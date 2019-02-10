@@ -1,5 +1,9 @@
 Campaign:
 
+Origin Story
+
+    The "Project-Cerberus" was the last hope of humanity. We had already colonized every planet in our solar system, but the day was close, the day where our sun was going to die and we had no choice but to leave it all behind.
+
 Day 1
 The Travelers Guide 
 
