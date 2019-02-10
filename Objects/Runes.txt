@@ -1,5 +1,14 @@
-Runes:
-
+Runes for ships: (These grant a bonus to Damage, HP, Shields, Rate Of Fire. Shield Absorption & Healing)
 	a)Support
-	b)Damage
-	c)Tank
+	b)Offensive
+	c)Defensive
+
+Runes for weapons: (These can be upgraded up to a max of 10 times [rune lvl 10] with resources)
+	a)Increases firing rate| Decreases shield capacity
+	b)Increases damage| Decreases ship speed
+	c)Increases rate of fire| Decreases ship HP
+	d)Increases damage| 
+	e)Ignore shield percentage| Decreases ship HP
+	f)Ignore shield percentage| Decreases ship speed
+
+

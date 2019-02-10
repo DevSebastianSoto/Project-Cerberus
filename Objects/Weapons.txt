@@ -2,11 +2,13 @@
 Weapons:
 	Types:
 		a)Simple
-		a)Burst
-		a)Laser
-		a)Cone
+		b)Burst
+		c)Laser
+		d)Cone
+		e)Shield Absorb
 	Upgrades:
 		a)Damage
-		b)Fire rate
+		b)Fire rate (discutirlo un poco)
 		c)Reload time
-		d)Precision
+		d)Precision (discutirlo un poco)
+		e)Shield Absorption Rate

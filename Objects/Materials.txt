@@ -9,6 +9,7 @@ Upgrade:
 	Elastomer (Speed upgrade)
 	Thermoplastics (Speed upgrade)
 	Uranium (Movement upgrades)
+	Nanotubes (Weapon upgrades)
 	
 Game:
 	a)Anti Matter Capsule (ultra rare, needed to upgrade ships)

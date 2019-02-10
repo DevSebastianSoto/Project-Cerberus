@@ -1,17 +1,21 @@
 Ships:
-	Types:
+	Types: (changes their special ability)
+		a)Void (Grants a damage boost on your ship for a period of time)
+		b)Gravity (slows down for a period of time the enemy target)
+		c)Electricity (Grants a speed bonus on your ship for some period of time)
+		d)Acid (damage over time on enemy target)
+		e)Meteorite (Grants a shield bonus on your ship for a period of time)
 
-		a)Void
-		b)Gravity
-		c)Electricity
-		d)Acid
 	Characteristics:
 		a)1-5 natural stars ratio / 6 stars max upgraded
-		b)Rune capacity
-		c)Natural stars have better stats than ships that were upgraded to that level (compareing).
+		b)Rune capacity ( 1-3 stars: one rune, 4-5 stars: 2 runes, 6 stars: 3 runes)
+		c)Natural stars have better stats than ships that were upgraded to that level (comparing).
+		d)Depending on the stars a ship has, it can wield 1,2 or 3 drones. These drones can provide a boost in healing, shields, damage or speed.
 	Upgrades:
 		a)Life
 		d)Speed
-		c)Ammo capacity
-		d)Repair time
-		e)Breaks
+		c)Ammo capacity (discutirlo un poco)
+		d)Repair time (discutir con Sebas sobre drons de reparación)
+		e)Breaks (discutirlo un poco)
+		f)Shield Capacity
+		g)Shield damage ratio (yo te explico esto el martes que nos veamos Sebas)
