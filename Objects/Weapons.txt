@@ -1,0 +1,12 @@
+
+Weapons:
+	Types:
+		a)Simple
+		a)Burst
+		a)Laser
+		a)Cone
+	Upgrades:
+		a)Damage
+		b)Fire rate
+		c)Reload time
+		d)Precision

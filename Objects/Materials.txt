@@ -1,0 +1,14 @@
+Materials:
+
+Upgrade:
+	
+	//Database for materials https://www.spacematdb.com/spacemat/
+	Metals:
+		a)Titanium (Health upgrade)
+		b)Copper (Weapon upgrade)
+	Elastomer (Speed upgrade)
+	Thermoplastics (Speed upgrade)
+	Uranium (Movement upgrades)
+	
+Game:
+	a)Anti Matter Capsule (ultra rare, needed to upgrade ships)

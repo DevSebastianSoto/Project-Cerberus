@@ -1,0 +1,17 @@
+Ships:
+	Types:
+
+		a)Void
+		b)Gravity
+		c)Electricity
+		d)Acid
+	Characteristics:
+		a)1-5 natural stars ratio / 6 stars max upgraded
+		b)Rune capacity
+		c)Natural stars have better stats than ships that were upgraded to that level (compareing).
+	Upgrades:
+		a)Life
+		d)Speed
+		c)Ammo capacity
+		d)Repair time
+		e)Breaks
