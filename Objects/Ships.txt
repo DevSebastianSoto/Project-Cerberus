@@ -19,3 +19,4 @@ Ships:
 		e)Breaks (discutirlo un poco)
 		f)Shield Capacity
 		g)Shield damage ratio (yo te explico esto el martes que nos veamos Sebas)
+		h)crew (the better the crew, the faster the ship repairs and the wapon range and radius gets bigger)
