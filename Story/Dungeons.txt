@@ -1,1 +1,7 @@
 Dungeons:
+
+Each planet is a dungeon and the stage defines difficulty
+
+Planet x stage 1:
+Planet x stage 2:
+Planet x stage 3:
