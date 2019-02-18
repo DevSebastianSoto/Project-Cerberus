@@ -1,0 +1,18 @@
+Setting:
+    year: A7x912
+    place: The Ship (Insert cool name)
+Characters:
+
+    mother:
+    father:
+    brother:
+    sister:
+Roles:
+    soldier,medic,engineer,biologyst
+
+
+why humans are leaving the solar system?
+where are they going?
+what is their strategy to go there?
+how much time they have to get there?
+what are the rules?
